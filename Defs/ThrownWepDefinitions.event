@@ -1,0 +1,12 @@
+// Thrown Weapons
+#define DefaultJavelin 0x8058196
+#define DefaultHandaxe DefaultJavelin
+#define CavalierJavelin 0x8058174
+#define PaladinJavelin 0x805817C
+#define PaladinFJavelin 0x8058180
+#define GeneralJavelin 0x8058194
+#define WyvernRiderJavelin 0x805818C
+#define WyvernLordJavelin 0x8058190
+#define PegasusKnightJavelin 0x8058184
+#define FalcoKnightJavelin 0x8058188
+#define SoldierJavelin 0x8058178
